@@ -1,2 +1,3 @@
 # Pokemon-game
-assignment-8
+Development Challange - Semester 3
+The task is to deepen my knowledge about APIs and JSON.
